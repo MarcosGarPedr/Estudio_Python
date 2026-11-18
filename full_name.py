@@ -1,3 +1,5 @@
+# Como utilizar la función f-string para concatenar una cadena con una variable.
+
 first_name = "Marcos"
 last_name = "García"
 full_name = f"{first_name} {last_name}"

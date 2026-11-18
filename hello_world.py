@@ -1,3 +1,5 @@
+# Establecer valores a una variable.
+
 message = "Hello Python world!"
 print(message)
 
